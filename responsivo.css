@@ -1,0 +1,109 @@
+@media (max-width: 1380px) {
+    .centro{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 380%;
+    }
+}
+
+@media (max-width: 1180px) {
+    .centro{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 480%;
+    }
+}
+
+@media (max-width: 930px) {
+    .centro{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 580%;
+    }
+}
+
+@media (max-width: 726px) {
+    .centro{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 680%;
+    }
+}
+
+@media (max-width: 605px) {
+    .centro{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 780%;
+    }
+}
+
+@media (max-width: 525px) {
+    .centro{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 880%;
+    }
+}
+
+@media (max-width: 605px) {
+    .centro{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 780%;
+    }
+}
+
+@media (max-width: 459px) {
+    .centro{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 1000%;
+    }
+}
+
+@media (max-width: 412px) {
+    .centro{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 1015%;
+    }
+}
+
+@media (max-width: 400px) {
+    .centro{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 1150%;
+    }
+}
+
+@media (max-width: 390px) {
+    .centro{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        margin-top: 1300%;
+    }
+}

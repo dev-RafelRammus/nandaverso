@@ -1,0 +1,44 @@
+.videos-container {
+    display: flex;
+    flex-direction: row; /* Mostrar os vídeos um abaixo do outro */
+    align-items: center; /* Centralizar horizontalmente os vídeos */
+}
+
+.video video {
+    margin: 10px;
+    height: 500px;
+    max-width: 30%; /* Para ajustar a largura dos vídeos */
+    margin-left: 10%;
+}
+
+body {
+    background-color: #ffe4e1;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column; /* Configuração para organizar os elementos em coluna */
+    align-items: center; /* Centraliza os elementos horizontalmente */
+    justify-content: center; /* Centraliza os elementos verticalmente */
+    height: 100vh; /* Define a altura da página como a altura da viewport */
+    position: relative;
+    font-style: oblique;
+}
+
+.logo {
+    margin-top: -30px;
+}
+
+header.cabecalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 10px;
+    width: 100%;
+}
+
+video{
+    max-height: 50%;
+}
