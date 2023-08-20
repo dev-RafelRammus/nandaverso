@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     if (
                         ((nomeLowerCase === "fernanda" && dataNascimento === "2002-09-23") ||
                         (nomeLowerCase === "rafael" && dataNascimento === "2001-12-05"))  ||
-                        (nomeLowerCase === "amigos" && dataNascimento === "2022-10-01")
+                        (nomeLowerCase === "amigos" && dataNascimento === "")
                         &&
                         senha === "0110"
                     ) {
